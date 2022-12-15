@@ -1,0 +1,42 @@
+
+
+@media (max-width: 575.98px) { 
+  .banner_snd_part {
+    margin-top: 352px;
+    margin-left: 221px;
+  }
+  .banner_snd_part img{
+    width: 77px;
+  }
+  .banner_snd_part h1 {
+    font-size: 16px;
+    line-height: -5%;
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  .button {
+    font-size: 8px;
+    padding: 15px 15px;
+  }
+
+  .banner_img {
+    position: absolute;
+    bottom: 38px;
+    left:200px;
+  }
+  
+  .banner_img img{
+    margin-left: -203px;
+  }
+ }
+
+
+@media (max-width: 767.98px) {  }
+
+
+@media (max-width: 991.98px) { }
+
+@media (max-width: 1199.98px) {  }
+
+
+@media (max-width: 1399.98px) { }
